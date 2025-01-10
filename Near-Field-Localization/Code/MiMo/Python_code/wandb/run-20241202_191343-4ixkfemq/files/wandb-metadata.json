@@ -1,0 +1,27 @@
+{
+  "os": "Linux-6.8.0-49-generic-x86_64-with-glibc2.35",
+  "python": "3.10.12",
+  "startedAt": "2024-12-02T16:13:43.402512Z",
+  "program": "/home/mnl/Desktop/University/Fall 2024-2025/VIPP/CODES/Python-MATLAB/MiMo/Python/complex_mode.ipynb",
+  "email": "mnl03@mail.aub.edu",
+  "root": "/home/mnl/Desktop/University/Fall 2024-2025/VIPP/CODES/Python-MATLAB/MiMo/Python",
+  "host": "MNL-Laptop",
+  "username": "mnl",
+  "executable": "/bin/python3",
+  "codePathLocal": "complex_mode.ipynb",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "502392610816",
+      "used": "139803131904"
+    }
+  },
+  "memory": {
+    "total": "16659095552"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}

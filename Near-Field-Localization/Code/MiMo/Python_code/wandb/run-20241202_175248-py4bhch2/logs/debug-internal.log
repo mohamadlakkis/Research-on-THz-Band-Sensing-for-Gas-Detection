@@ -1,0 +1,20 @@
+{"time":"2024-12-02T17:52:51.147379921+03:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-02T17:52:51.147419946+03:00","level":"INFO","msg":"created symlink","path":"/home/mnl/Desktop/University/Fall 2024-2025/VIPP/CODES/Python-MATLAB/MiMo/Python/wandb/run-20241202_175248-py4bhch2/logs/debug-core.log"}
+{"time":"2024-12-02T17:52:51.252625142+03:00","level":"INFO","msg":"created new stream","id":"py4bhch2"}
+{"time":"2024-12-02T17:52:51.252695945+03:00","level":"INFO","msg":"stream: started","id":"py4bhch2"}
+{"time":"2024-12-02T17:52:51.253021609+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"py4bhch2"}
+{"time":"2024-12-02T17:52:51.253532389+03:00","level":"INFO","msg":"handler: started","stream_id":"py4bhch2"}
+{"time":"2024-12-02T17:52:51.253714342+03:00","level":"INFO","msg":"sender: started","stream_id":"py4bhch2"}
+{"time":"2024-12-02T17:52:51.763054049+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-02T17:53:53.701998375+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-02T17:53:53.704071882+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-02T17:53:54.295380129+03:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-12-02T17:53:54.29541275+03:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-12-02T17:53:54.295425959+03:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-12-02T17:53:54.666923658+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.11645127,"progress":"587B/587B"},{"desc":"uploading output.log","runtime_seconds":0.116439821}],"total_operations":2}}
+{"time":"2024-12-02T17:53:54.837644953+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-02T17:53:56.434917463+03:00","level":"INFO","msg":"stream: closing","id":"py4bhch2"}
+{"time":"2024-12-02T17:53:56.434998253+03:00","level":"INFO","msg":"handler: closed","stream_id":"py4bhch2"}
+{"time":"2024-12-02T17:53:56.435036541+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"py4bhch2"}
+{"time":"2024-12-02T17:53:56.435058969+03:00","level":"INFO","msg":"sender: closed","stream_id":"py4bhch2"}
+{"time":"2024-12-02T17:53:56.435225894+03:00","level":"INFO","msg":"stream: closed","id":"py4bhch2"}

@@ -1,0 +1,15 @@
+{"time":"2024-12-02T18:03:58.110273381+03:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-02T18:03:58.11030775+03:00","level":"INFO","msg":"created symlink","path":"/home/mnl/Desktop/University/Fall 2024-2025/VIPP/CODES/Python-MATLAB/MiMo/Python/wandb/run-20241202_180358-rof30mk1/logs/debug-core.log"}
+{"time":"2024-12-02T18:03:58.214813953+03:00","level":"INFO","msg":"created new stream","id":"rof30mk1"}
+{"time":"2024-12-02T18:03:58.21484517+03:00","level":"INFO","msg":"stream: started","id":"rof30mk1"}
+{"time":"2024-12-02T18:03:58.214862571+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"rof30mk1"}
+{"time":"2024-12-02T18:03:58.214881809+03:00","level":"INFO","msg":"sender: started","stream_id":"rof30mk1"}
+{"time":"2024-12-02T18:03:58.214921823+03:00","level":"INFO","msg":"handler: started","stream_id":"rof30mk1"}
+{"time":"2024-12-02T18:03:58.797997197+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-02T18:03:59.179786913+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T18:04:08.676774769+03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T18:04:18.835740286+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T18:04:30.335847959+03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T18:04:30.377746193+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T18:04:47.580661751+03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T18:05:16.542292899+03:00","level":"INFO","msg":"Pausing system monitor"}

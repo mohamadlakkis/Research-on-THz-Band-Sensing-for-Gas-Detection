@@ -1,0 +1,10 @@
+{"time":"2024-12-02T18:25:40.054319703+03:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-02T18:25:40.054425313+03:00","level":"INFO","msg":"created symlink","path":"/home/mnl/Desktop/University/Fall 2024-2025/VIPP/CODES/Python-MATLAB/MiMo/Python/wandb/run-20241202_182539-l58ruocj/logs/debug-core.log"}
+{"time":"2024-12-02T18:25:40.180895459+03:00","level":"INFO","msg":"created new stream","id":"l58ruocj"}
+{"time":"2024-12-02T18:25:40.180975996+03:00","level":"INFO","msg":"stream: started","id":"l58ruocj"}
+{"time":"2024-12-02T18:25:40.181010455+03:00","level":"INFO","msg":"sender: started","stream_id":"l58ruocj"}
+{"time":"2024-12-02T18:25:40.181021246+03:00","level":"INFO","msg":"handler: started","stream_id":"l58ruocj"}
+{"time":"2024-12-02T18:25:40.181064013+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"l58ruocj"}
+{"time":"2024-12-02T18:25:40.849957615+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-02T18:25:41.187065796+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T18:25:44.327112421+03:00","level":"INFO","msg":"Resuming system monitor"}

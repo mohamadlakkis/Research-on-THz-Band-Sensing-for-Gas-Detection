@@ -1,0 +1,11 @@
+{"time":"2024-12-02T18:18:13.282079238+03:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-02T18:18:13.282129093+03:00","level":"INFO","msg":"created symlink","path":"/home/mnl/Desktop/University/Fall 2024-2025/VIPP/CODES/Python-MATLAB/MiMo/Python/wandb/run-20241202_181813-jv5qddua/logs/debug-core.log"}
+{"time":"2024-12-02T18:18:13.386155497+03:00","level":"INFO","msg":"created new stream","id":"jv5qddua"}
+{"time":"2024-12-02T18:18:13.386182937+03:00","level":"INFO","msg":"stream: started","id":"jv5qddua"}
+{"time":"2024-12-02T18:18:13.386209534+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"jv5qddua"}
+{"time":"2024-12-02T18:18:13.386220104+03:00","level":"INFO","msg":"handler: started","stream_id":"jv5qddua"}
+{"time":"2024-12-02T18:18:13.386217817+03:00","level":"INFO","msg":"sender: started","stream_id":"jv5qddua"}
+{"time":"2024-12-02T18:18:13.899794295+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-02T18:18:14.225944523+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T18:18:21.575907635+03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T18:24:50.550996166+03:00","level":"INFO","msg":"Pausing system monitor"}
